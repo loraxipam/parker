@@ -31,6 +31,8 @@ This sketch requires at least three components, if you don't put the Arduino to 
    - Ultrasonic.h - for simple acoustic range finding
    - LowPower.h - for reducing power consumption while the door is closed (optional)
 
+![Block diagram](Parker.pdf)
+
 ### Possible configurations
 
 You can use this code with a minimum of the ultrasonic detector and LEDs on the Arduino pins. You don't need to power down the Arduino, either, so you could do without the contact switch. Look in the examples directory for code.
