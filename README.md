@@ -4,15 +4,15 @@ Parker will help you to stop your vehicle so you don't ram into the garage shelv
 
 Here's how it works. 
 
-1 - Buy an Arduino, some LEDs, a tilt sensor or some kind of contact switch of your choice, an Adafruit TLC59711 and an ultrasonic
+  1. Buy an Arduino, some LEDs, a tilt sensor or some kind of contact switch of your choice, an Adafruit TLC59711 and an ultrasonic
 sensor.  
-2 - Wire the contact switch so when your garage door opens, it will close the contact. Put on your thinking cap and get out the
+  1. Wire the contact switch so when your garage door opens, it will close the contact. Put on your thinking cap and get out the
 drill.  
-3 - Attach the ultrasonic sensor in front of your parking spot. You'll need to know how far the car should stop from that spot.  
-4 - Attach red, yellow, green and blue LEDs to the TLC59711 and attach that in a clear box that meets your visibility requirements,
+  1. Attach the ultrasonic sensor in front of your parking spot. You'll need to know how far the car should stop from that spot.  
+  1. Attach red, yellow, green and blue LEDs to the TLC59711 and attach that in a clear box that meets your visibility requirements,
 not to mention your high taste.  
-5 - Run all these wires from the remote gizmos into a pretty little box that will hold your Arduino.  
-6 - Program your Arduino with this sketch, tweaked to your distance specs.
+  1. Run all these wires from the remote gizmos into a pretty little box that will hold your Arduino.  
+  1. Program your Arduino with this sketch, tweaked to your distance specs.
 
 ## Usage
 
