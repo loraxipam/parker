@@ -34,3 +34,10 @@ This sketch requires at least three components, if you don't put the Arduino to 
 ### Possible configurations
 
 You can use this code with a minimum of the ultrasonic detector and LEDs on the Arduino pins. You don't need to power down the Arduino, either, so you could do without the contact switch. Look in the examples directory for code.
+
+##### History
+
+Tommy Hill had a Parker shotgun and he named his Airedale, Parker, after his shotgun. Both were really cool. Hat tip to Tommy and to Parker, who was so smart he could probably have parked your car.
+
+![The Dog](Parker.jpg)
+![The Shotgun](Parker.png)
