@@ -1,6 +1,8 @@
 # Parker
 
-Parker will help you to stop your vehicle so you don't ram into the garage shelves. Think of this as the electronic tennis-ball-on-a-string for your garage's perplexing parking problems. It uses an ultrasonic distance sensor and a LED controller to alert you about how close you get to the target zone.
+Parker will help you to stop your vehicle so you don't ram into the garage shelves. Think of this as the electronic
+tennis-ball-on-a-string for your garage's perplexing parking problems. It uses an ultrasonic distance sensor and a LED controller to
+alert you about how close you get to the target zone.
 
 Here's how it works. 
 
@@ -33,13 +35,21 @@ This sketch requires at least three components, if you don't put the Arduino to 
 
 ![Block diagram](Parker.pdf)
 
+I stuck the controller on one of those mini breadboards and wired it into a plastic makeup container with a translucent cover. Here's
+a photo of my as-built LED setup. Leads and resistors are under the board. The translucent cover is great because it makes the light
+from the LEDs more diffuse and more visible.
+
+<img src="asbuilt1.jpg" alt="As-built" width=512 />
+
 ### Possible configurations
 
-You can use this code with a minimum of the ultrasonic detector and LEDs on the Arduino pins. You don't need to power down the Arduino, either, so you could do without the contact switch. Look in the examples directory for code.
+You can use this code with a minimum of the ultrasonic detector and LEDs on the Arduino pins. You don't need to power down the
+Arduino, either, so you could do without the contact switch. Look in the examples directory for code.
 
 ##### History
 
-Tommy Hill had a Parker shotgun and he named his Airedale, Parker, after his shotgun. Both were really cool. Hat tip to Tommy and to Parker, who was so smart he could probably have parked your car.
+Tommy Hill had a Parker shotgun and he named his Airedale, Parker, after his shotgun. Both were really cool. Hat tip to Tommy and to
+Parker, who was so smart he could probably have parked your car.
 
 ![The Dog](Parker.jpg)
 ![The Shotgun](Parker.png)
